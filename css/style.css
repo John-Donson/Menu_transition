@@ -58,4 +58,5 @@
 .three:hover,
 .four:hover {
   background-position: left bottom;
+  color: #ffffff;
 }
